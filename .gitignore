@@ -1,0 +1,7 @@
+venv/
+qdrant_data/
+src/03SOL_self_querying_retriever.py 
+.DS_Store
+__pycache__/
+*.pyc
+.env
